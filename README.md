@@ -13,13 +13,13 @@
 llvm python接口，暂没有测试过
 * [flare-vm](https://github.com/mandiant/commando-vm)  
 下载常用的研究工具/国内不挂代理的话下的很慢
-* [magic_enum](https://github.com/Neargye/magic_enum)
+* [magic_enum](https://github.com/Neargye/magic_enum)  
 利用C++反射实现enum值到字符串/仅用户层
-* [aqtinstall](https://github.com/miurahr/aqtinstall)
+* [aqtinstall](https://github.com/miurahr/aqtinstall)  
 利用python安装qt/visualstudio+qt很方便/采用国内源，速度快
-* [microunit](https://github.com/smiranda/microunit)
+* [microunit](https://github.com/smiranda/microunit)  
 C++单元测试/单头文件
-* [pe-parse](https://github.com/trailofbits/pe-parse)
+* [pe-parse](https://github.com/trailofbits/pe-parse)  
 python pe文件解析库
 
 C++用户层日志库
