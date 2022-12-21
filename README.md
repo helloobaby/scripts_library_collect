@@ -57,7 +57,7 @@ IDA的f5发到OpenAI那分析
 
 x64dbg插件
 ----
-* [ScyllaHide](https://github.com/x64dbg/ScyllaHide)  
+* [ScyllaHide](https://github.com/x64dbg/ScyllaHide)   
 反反调试
 * [TitanHide](https://github.com/mrexodia/TitanHide)  
 驱动层反反调试
@@ -74,9 +74,11 @@ x64dbg插件
 恶意样本反检测技术
 ----
 * [pafish](https://github.com/a0rtega/pafish)
-不再更新/
+/
 * [al-khaser](https://github.com/LordNoteworthy/al-khaser)
-更新/
+/
+* [antianalysis_demos](https://github.com/hasherezade/antianalysis_demos)  
+/
 
 用户层hook库
 ----
@@ -86,7 +88,9 @@ x64dbg插件
 内核层hook库
 ----
 * [kernel-hook](https://github.com/helloobaby/kernel-hook)  
-不适用于开启虚拟化后/
+不适用于开启虚拟化后/  
+
+
 
 补充项目
 * https://github.com/fffaraz/awesome-cpp
