@@ -22,11 +22,6 @@ python pe文件解析库
 * [skCrypter](https://github.com/skadro-official/skCrypter)  
 用户层+内核层编译期字符串加密库
 
-C++用户层日志库
-----
-* [spdlog](https://github.com/gabime/spdlog)
-* [glog](https://github.com/google/glog)
-
 
 C/C++ windows 用户库
 ----
@@ -34,9 +29,10 @@ C/C++ windows 用户库
 这玩意跟Qt库不兼容。
 * [peparser](https://github.com/smarttechnologies/peparser)  
 n年前的库，解析windows PE文件
-* [libpeconv](https://github.com/hasherezade/libpeconv)
+* [libpeconv](https://github.com/hasherezade/libpeconv)  
 操作windowsPE文件的库，更新比较勤快
-* [SymCrypt](https://github.com/microsoft/SymCrypt)
+* [SymCrypt](https://github.com/microsoft/SymCrypt)  
+可能跟bcrypt.dll的作用差不多
 
 C/C++ windows 内核库
 ----
