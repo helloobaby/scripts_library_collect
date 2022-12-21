@@ -2,7 +2,6 @@
 #### 项目特征描述用/隔开
 ----
 
-
 无分类
 ----
 * [portable-file-dialogs](https://github.com/samhocevar/portable-file-dialogs)  
@@ -86,3 +85,7 @@ x64dbg插件
 ----
 * [kernel-hook](https://github.com/helloobaby/kernel-hook)  
 不适用于开启虚拟化后/
+
+补充项目
+* https://github.com/fffaraz/awesome-cpp
+* https://github.com/onethawt/idaplugins-list
