@@ -20,6 +20,8 @@ C++单元测试/单头文件
 python pe文件解析库
 * [skCrypter](https://github.com/skadro-official/skCrypter)  
 用户层+内核层编译期字符串加密库
+* [masm_shc](https://github.com/hasherezade/masm_shc)  
+编译C代码到Shellcode
 
 
 C/C++ windows 用户库
