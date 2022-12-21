@@ -13,14 +13,14 @@
 llvm python接口，暂没有测试过
 * [flare-vm](https://github.com/mandiant/commando-vm)  
 下载常用的研究工具/国内不挂代理的话下的很慢
-* [magic_enum](https://github.com/Neargye/magic_enum)  
-利用C++反射实现enum值到字符串/仅用户层
 * [aqtinstall](https://github.com/miurahr/aqtinstall)  
-利用python安装qt/visualstudio+qt很方便/采用国内源，速度快
+利用python安装qt/visualstudio+qt开发很方便/采用国内源，速度快
 * [microunit](https://github.com/smiranda/microunit)  
 C++单元测试/单头文件
 * [pe-parse](https://github.com/trailofbits/pe-parse)  
 python pe文件解析库
+* [skCrypter](https://github.com/skadro-official/skCrypter)
+用户层+内核层编译期字符串加密库
 
 C++用户层日志库
 ----
@@ -55,6 +55,15 @@ IDA 插件
 IDA的f5发到OpenAI那分析
 * [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)  
 暂时感觉没啥大用/不更新
+* [ida-hex-highlight](https://github.com/vmallet/ida-hex-highlighter)  
+高亮函数边界，适合分析很长的函数
+
+x64dbg插件
+----
+* [ScyllaHide](https://github.com/x64dbg/ScyllaHide)  
+反反调试
+* [TitanHide](https://github.com/mrexodia/TitanHide)  
+驱动层反反调试
 
 逆向相关
 ----
@@ -62,6 +71,8 @@ IDA的f5发到OpenAI那分析
 应付混淆字符串的python脚本，比如堆栈传字符那种
 * [obfuscation_detection](https://github.com/mrphrazer/obfuscation_detection)  
 检测样本中的非常规行为
+* [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)  
+查壳
 
 恶意样本反检测技术
 ----
