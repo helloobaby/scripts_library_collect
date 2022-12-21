@@ -61,6 +61,8 @@ x64dbg插件
 反反调试
 * [TitanHide](https://github.com/mrexodia/TitanHide)  
 驱动层反反调试
+* [stringsx64dbg](https://github.com/horsicq/stringsx64dbg)  
+查找字符串
 
 逆向相关
 ----
