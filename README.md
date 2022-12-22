@@ -51,7 +51,7 @@ IDA 插件
 * [gepetto](https://github.com/JusticeRage/Gepetto)  
 IDA的f5发到OpenAI那分析
 * [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)  
-暂时感觉没啥大用/不更新
+分析C程序用处不大/不更新
 * [ida-hex-highlight](https://github.com/vmallet/ida-hex-highlighter)  
 高亮函数边界，适合分析很长的函数
 
