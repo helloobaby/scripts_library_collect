@@ -37,8 +37,8 @@ n年前的库，解析windows PE文件
 
 C/C++ windows 内核库
 ----
-* [Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge)  
-不好用，文件之间的依赖太严重
+* [Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge)   
+
 
 Ghidra 插件 
 ----
