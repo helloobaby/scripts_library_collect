@@ -11,6 +11,7 @@
 * [pe-parse](https://github.com/trailofbits/pe-parse)  
 * [skCrypter](https://github.com/skadro-official/skCrypter) 
 * [masm_shc](https://github.com/hasherezade/masm_shc)  
+* [utfcpp](https://github.com/nemtrif/utfcpp)
 
 C/C++ 单元测试
 ----
