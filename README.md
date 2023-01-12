@@ -17,6 +17,7 @@ C/C++ 单元测试
 * [microunit](https://github.com/smiranda/microunit)  
 * [gtest](https://github.com/google/googletest)
 * [doctest](https://github.com/doctest/doctest) 
+* [kmtest](https://github.com/SergiusTheBest)
 
 C/C++ windows 用户库
 ----
