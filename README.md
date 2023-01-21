@@ -76,6 +76,15 @@ x64dbg插件
 * [kernel-hook](https://github.com/helloobaby/kernel-hook)  
 
 ----
+Visual Studio Plugin
+----
+Markdown Editor  
+Qt Visual Studio Tools
+AsmDude
+
+
+
+
 
 补充项目
 * https://github.com/fffaraz/awesome-cpp
