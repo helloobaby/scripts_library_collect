@@ -44,6 +44,7 @@ IDA 插件
 * [gepetto](https://github.com/JusticeRage/Gepetto)  
 * [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)  
 * [ida-hex-highlight](https://github.com/vmallet/ida-hex-highlighter)  
+* [search-from-ida](https://github.com/ramikg/search-from-ida/blob/master/search_from_ida.py)
 
 x64dbg插件
 ----
@@ -82,11 +83,12 @@ Visual Studio Plugin
 Markdown Editor  
 Qt Visual Studio Tools  
 AsmDude  
-
-
-
-
-
-补充项目
+  
+  
+  
+  
+  
+## 补充项目
+****
 * https://github.com/fffaraz/awesome-cpp
 * https://github.com/onethawt/idaplugins-list
