@@ -44,7 +44,8 @@ IDA 插件
 * [gepetto](https://github.com/JusticeRage/Gepetto)  
 * [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)  
 * [ida-hex-highlight](https://github.com/vmallet/ida-hex-highlighter)  
-* [search-from-ida](https://github.com/ramikg/search-from-ida/blob/master/search_from_ida.py)
+* [search-from-ida](https://github.com/ramikg/search-from-ida)
+* [OpenWithIDA](https://github.com/ramikg/openwithida)
 
 x64dbg插件
 ----
