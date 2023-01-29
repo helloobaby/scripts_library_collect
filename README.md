@@ -9,6 +9,7 @@
 * [flare-vm](https://github.com/mandiant/commando-vm)  
 * [aqtinstall](https://github.com/miurahr/aqtinstall)  
 * [pe-parse](https://github.com/trailofbits/pe-parse)  
+* [pefile](https://github.com/erocarrera/pefile)
 * [skCrypter](https://github.com/skadro-official/skCrypter) 
 * [masm_shc](https://github.com/hasherezade/masm_shc)  
 * [utfcpp](https://github.com/nemtrif/utfcpp)  
@@ -63,11 +64,8 @@ x64dbg插件
 恶意样本反检测技术
 ----
 * [pafish](https://github.com/a0rtega/pafish)  
-/
 * [al-khaser](https://github.com/LordNoteworthy/al-khaser)  
-/
 * [antianalysis_demos](https://github.com/hasherezade/antianalysis_demos)  
-/
 
 用户层hook库
 ----
