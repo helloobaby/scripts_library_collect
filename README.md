@@ -15,6 +15,7 @@
 * [utfcpp](https://github.com/nemtrif/utfcpp)  
 * [NumCpp](https://github.com/dpilger26/NumCpp)  
 * [magic_enum](https://github.com/Neargye/magic_enum)
+* [Sig](https://github.com/HoShiMin/Sig.git)
 
 C/C++ 单元测试
 ----
