@@ -49,6 +49,7 @@ IDA 插件
 * [ida-hex-highlight](https://github.com/vmallet/ida-hex-highlighter)  
 * [search-from-ida](https://github.com/ramikg/search-from-ida)
 * [OpenWithIDA](https://github.com/ramikg/openwithida)
+* [keypatch](https://github.com/keystone-engine/keypatch)
 
 x64dbg插件
 ----
