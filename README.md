@@ -79,13 +79,13 @@ x64dbg插件
 ----
 * [kernel-hook](https://github.com/helloobaby/kernel-hook)  
 
-----
+
 Visual Studio Plugin
 ----
-Markdown Editor  
-Qt Visual Studio Tools  
 AsmDude  
   
+JIT库相关
+* [awesome-jit](https://github.com/wdv4758h/awesome-jit)
   
   
   
