@@ -85,7 +85,7 @@ Visual Studio Plugin
 AsmDude  
   
 JIT库相关
-****
+----
 * [awesome-jit](https://github.com/wdv4758h/awesome-jit)
   
   
