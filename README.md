@@ -31,6 +31,7 @@ C/C++ windows 用户库
 * [peparser](https://github.com/smarttechnologies/peparser)  
 * [libpeconv](https://github.com/hasherezade/libpeconv)  
 * [SymCrypt](https://github.com/microsoft/SymCrypt)  
+* [rizin](https://github.com/rizinorg/rizin) 
 
 C/C++ windows 内核库
 ----
