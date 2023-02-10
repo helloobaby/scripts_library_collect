@@ -96,3 +96,7 @@ JIT库相关
 ****
 * https://github.com/fffaraz/awesome-cpp
 * https://github.com/onethawt/idaplugins-list
+
+
+## This rep is moved to my blog for convenience of changing  
+If you need new updates, you can leave an email
